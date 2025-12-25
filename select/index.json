@@ -1,160 +1,64 @@
 {
   "version": 1,
-  "base_track": "モザイクロール",
+  "base_track": "モザイクロール（feat. GUMI）",
   "base_artist": "DECO*27",
-  "createdAt": "2025-12-04T09:44:06.768594Z",
+  "createdAt": "2025-12-25T08:29:20.727280Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "モザイクロール",
+      "title": "モザイクロール (feat. GUMI)",
       "artist": "DECO*27",
       "has_synced": true,
-      "path": "select/01_モザイクロール_DECO_27.lrc"
+      "path": "select/01_モザイクロール_(feat._GUMI)_DECO_27.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "モザイクロール (kous DR Remix)",
-      "artist": "Deco*27 feat. 初音ミク",
+      "title": "モザイクロール (feat. GUMI)",
+      "artist": "DECO*27, GUMI",
       "has_synced": false,
-      "path": "select/02_モザイクロール_(kous_DR_Remix)_Deco_27_feat._初音ミク.txt"
+      "path": "select/02_モザイクロール_(feat._GUMI)_DECO_27,_GUMI.txt"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "モザイクロール",
-      "artist": "DECO*27 feat. GUMI",
-      "has_synced": true,
-      "path": "select/03_モザイクロール_DECO_27_feat._GUMI.lrc"
+      "title": "モザイクロール feat. marina",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/03_モザイクロール_feat._marina_DECO_27.txt"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "モザイクロール(カバー)",
-      "artist": "いかさん",
-      "has_synced": false,
-      "path": "select/04_モザイクロール(カバー)_いかさん.txt"
+      "title": "モザイクロール feat. marina",
+      "artist": "marina",
+      "has_synced": true,
+      "path": "select/04_モザイクロール_feat._marina_marina.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "モザイクロール",
-      "artist": "いかさん",
-      "has_synced": false,
-      "path": "select/05_モザイクロール_いかさん.txt"
+      "title": "モザイクロール (feat. marina)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/05_モザイクロール_(feat._marina)_DECO_27.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "モザイクロール",
-      "artist": "DECO*27 feat. marina",
-      "has_synced": false,
-      "path": "select/06_モザイクロール_DECO_27_feat._marina.txt"
-    },
-    {
-      "id": "lrclib_7",
-      "source": "lrclib",
-      "title": "モザイクロール feat. marina",
-      "artist": "DECO*27",
-      "has_synced": false,
-      "path": "select/07_モザイクロール_feat._marina_DECO_27.txt"
-    },
-    {
-      "id": "lrclib_8",
-      "source": "lrclib",
-      "title": "モザイクロール (kous DR Remix)",
-      "artist": "DECO*27 feat. Miku Hatsune",
-      "has_synced": false,
-      "path": "select/08_モザイクロール_(kous_DR_Remix)_DECO_27_feat._Miku_Hatsune.txt"
-    },
-    {
-      "id": "lrclib_9",
-      "source": "lrclib",
-      "title": "モザイクロール(kous DR Remix) feat. 初音ミク",
-      "artist": "DECO*27",
-      "has_synced": false,
-      "path": "select/09_モザイクロール(kous_DR_Remix)_feat._初音ミク_DECO_27.txt"
-    },
-    {
-      "id": "lrclib_10",
-      "source": "lrclib",
-      "title": "モザイクロール",
-      "artist": "DECO＊27 feat. GUMI",
+      "title": "モザイクロール (feat. marina)",
+      "artist": "DECO*27, marina",
       "has_synced": true,
-      "path": "select/10_モザイクロール_DECO_27_feat._GUMI.lrc"
-    },
-    {
-      "id": "lrclib_11",
-      "source": "lrclib",
-      "title": "モザイクロール",
-      "artist": "DECO[↑]*27",
-      "has_synced": true,
-      "path": "select/11_モザイクロール_DECO[↑]_27.lrc"
-    },
-    {
-      "id": "lrclib_12",
-      "source": "lrclib",
-      "title": "モザイクロール",
-      "artist": "DECO*27; いかさん",
-      "has_synced": false,
-      "path": "select/12_モザイクロール_DECO_27;_いかさん.txt"
-    },
-    {
-      "id": "lrclib_13",
-      "source": "lrclib",
-      "title": "モザイクロール (Reloaded)",
-      "artist": "DECO*27",
-      "has_synced": true,
-      "path": "select/13_モザイクロール_(Reloaded)_DECO_27.lrc"
-    },
-    {
-      "id": "lrclib_14",
-      "source": "lrclib",
-      "title": "モザイクロール",
-      "artist": "DECO*27 feat. GUMI",
-      "has_synced": false,
-      "path": "select/14_モザイクロール_DECO_27_feat._GUMI.txt"
-    },
-    {
-      "id": "lrclib_15",
-      "source": "lrclib",
-      "title": "モザイクロール",
-      "artist": "DECO*27, GUMI",
-      "has_synced": true,
-      "path": "select/15_モザイクロール_DECO_27,_GUMI.lrc"
-    },
-    {
-      "id": "lrclib_16",
-      "source": "lrclib",
-      "title": "モザイクロール - Reloaded",
-      "artist": "DECO*27",
-      "has_synced": true,
-      "path": "select/16_モザイクロール_-_Reloaded_DECO_27.lrc"
-    },
-    {
-      "id": "lrclib_17",
-      "source": "lrclib",
-      "title": "モザイクロール (Reloaded) / Mozaik Role (Reloaded)",
-      "artist": "DECO*27",
-      "has_synced": true,
-      "path": "select/17_モザイクロール_(Reloaded)___Mozaik_Role_(Reloaded)_DECO_27.lrc"
-    },
-    {
-      "id": "lrclib_18",
-      "source": "lrclib",
-      "title": "モザイクロール",
-      "artist": "ぐるたみん",
-      "has_synced": false,
-      "path": "select/18_モザイクロール_ぐるたみん.txt"
+      "path": "select/06_モザイクロール_(feat._marina)_DECO_27,_marina.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "モザイクロール",
+      "title": "モザイクロール feat. GUMI",
       "artist": "DECO*27",
       "has_synced": false,
-      "path": "select/pl_01_モザイクロール_DECO_27.txt"
+      "path": "select/pl_01_モザイクロール_feat._GUMI_DECO_27.txt"
     }
   ]
 }
